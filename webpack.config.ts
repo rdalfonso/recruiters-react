@@ -78,7 +78,7 @@ const config: webpack.Configuration = {
     }),
     new HtmlWebpackPlugin({
       title:
-        "Meowtel.com - The #1 Cat Sitting Platform for Finding Trusted Cat Sitters",
+        "RecruitersReviews.com - The #1 Platform for Finding Trusted Recruiters",
       template: path.resolve("src/template.html"),
     }),
   ],
